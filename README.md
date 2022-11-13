@@ -6,4 +6,4 @@ _Я учусь на Netology_
 
 ***Я люблю путешествовать***
 
-![фото](https://pastenow.ru/JS6S7)
+![фото](https://i.paste.pics/JS6S7.png)
