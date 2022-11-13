@@ -6,4 +6,4 @@ _Я учусь на Netology_
 
 ***Я люблю путешествовать***
 
-<image src="/Users/daryaostashevskaya/Desktop/Димина работа/Личный бренд/image0.png" alt="Картинка">
+![фото](https://pastenow.ru/JS6S7)
