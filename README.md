@@ -5,4 +5,4 @@ _Я учусь на Netology_
 
 ***Я люблю путешествовать***
 
-image0.png
+git@github.com:OstashevskyD/home_work_8_3.git
